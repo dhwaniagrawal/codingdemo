@@ -4,3 +4,5 @@ git clone <SSH path to the git repository> <optional argument for name of the re
 git branch - to know the current working branch.
 
 Git branch -a (to know all the branches in the git repository) 
+
+Git status (to know the working status of your current git repository)
