@@ -1,0 +1,6 @@
+
+git clone <SSH path to the git repository> <optional argument for name of the repository>
+
+git branch - to know the current working branch.
+
+Git branch -a (to know all the branches in the git repository) 
