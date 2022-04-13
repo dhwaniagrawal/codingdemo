@@ -6,3 +6,9 @@ git branch - to know the current working branch.
 Git branch -a (to know all the branches in the git repository) 
 
 Git status (to know the working status of your current git repository)
+
+Git add -A (to add all the changes in cloud from the git repository)
+
+Git commit -m (message what changed) (use to commit the changes)
+
+Git push origin branch or main (when you push the changes)
