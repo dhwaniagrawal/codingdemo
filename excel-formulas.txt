@@ -7,3 +7,6 @@ Excel formulas
 
 3) Error- =IFERROR(ROUND(E2/L2,0),0)
 
+
+
+
