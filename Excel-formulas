@@ -1,0 +1,9 @@
+
+Excel formulas
+
+1) percentage - =ROUND(E2/D2*100,0) 
+
+2) Average - =ROUND(E2/L2,0)
+
+3) Error- =IFERROR(ROUND(E2/L2,0),0)
+
